@@ -16,6 +16,7 @@ I like challenging myself with projects that push me outside of my comfort zone,
 
 I'm currently studying, but I'm also open to **internships, collaborations, or junior opportunities** where I can grow and contribute.
 
+I have a (hopefully) cool idea for a business management software — feel free to reach out if you’re interested!
 
 ## 💻 Tech Stack
 
