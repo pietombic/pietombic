@@ -8,7 +8,7 @@ Currently, I'm focusing on:
 - ✨ Creating modern and visually appealing web applications
 - 🎨 Learning **Three.js** to build interactive 3D experiences
 - 🚀 Expanding my full-stack development skills  
-- 🏛️ Working on a **museum web app** for a university project (currently private, sorry about that)
+- 🏛️ Working on a **museum web app** for a university project
 - ⚙️ Contributing to the development of a **kernel and shell** for the PandOSsh project
   ([repository](https://github.com/pietombic/pietombic/sistemi_operativi_progetto)) — a challenging and rewarding experience that introduced me to low-level programming and operating systems concepts  
 
