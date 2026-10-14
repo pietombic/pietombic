@@ -1,6 +1,6 @@
 ## 👋 Hello there!
 
-I'm **Pietro**, a second-year Computer Science student based in Bologna, Italy 🇮🇹  
+I'm **Pietro**, a third-year Computer Science student based in Italy 🇮🇹  
 
 I'm passionate about building web applications, exploring new technologies, and continuously improving my development skills. I enjoy both the creative side of frontend development and the logical/problem-solving side of backend and systems programming.
 
